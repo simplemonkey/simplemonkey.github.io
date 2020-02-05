@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sarada</title>
+    <link>https://simplemonkey.github.io/</link>
+    <description>Recent content on sarada</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 05 Feb 2020 14:49:01 +0530</lastBuildDate>
+    
+	<atom:link href="https://simplemonkey.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://simplemonkey.github.io/about/</link>
+      <pubDate>Wed, 05 Feb 2020 14:49:01 +0530</pubDate>
+      
+      <guid>https://simplemonkey.github.io/about/</guid>
+      <description>I like learning new tools and technologies</description>
+    </item>
+    
+    <item>
+      <title>How to Hugo</title>
+      <link>https://simplemonkey.github.io/posts/how-to-hugo/</link>
+      <pubDate>Wed, 05 Feb 2020 14:45:27 +0530</pubDate>
+      
+      <guid>https://simplemonkey.github.io/posts/how-to-hugo/</guid>
+      <description>How to Hugo blog is about the essential aspects of building a site with Hugo</description>
+    </item>
+    
+  </channel>
+</rss>
